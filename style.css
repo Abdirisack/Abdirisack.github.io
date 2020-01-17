@@ -1,2 +1,10 @@
 p{color:blue;
 }
+.content {
+  background-color: rbga(0,0,0,0,6);
+  color:white;
+  padding: 48px;
+  height: 300px;
+  width: 300px;
+  margin: 0 auto;
+}
