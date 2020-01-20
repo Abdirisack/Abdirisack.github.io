@@ -6,7 +6,7 @@ Body {color: blue;
   padding: 48px;
   height: 50px;
   width: 300px;
-  margin: 200px auto;
+  margin: 0 auto;
 }
 .profile_picture{
   height: 100px;
