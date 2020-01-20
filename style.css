@@ -1,12 +1,11 @@
-html {
+html { 
+   Body {color: blue}
    background: url(images.abdi1.gif) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
-Body {color: blue;
-   
 .content {
    background-color: rbga(0,0,0,0.7);
   color: black;
@@ -14,4 +13,4 @@ Body {color: blue;
   height: 300px;
   width: 500px;
   margin: 0 auto;
-   }
+}
