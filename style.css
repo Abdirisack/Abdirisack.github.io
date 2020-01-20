@@ -1,7 +1,7 @@
 Body {color:blue;
 }
 .content{
-  background-color: rbga(0,0,0,0,7);
+  background-color: rbga(0,0,0,0.8);
   color:white;
   padding: 48px;
   height: 300px;
