@@ -2,7 +2,7 @@ html {
    Body {color: blue}
 }
 .content {
-   background-color: Green;
+   background-color: rbga (0,0,0,0.7);
   color: black;
   padding: 48px;
   height: 300px;
