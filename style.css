@@ -2,9 +2,9 @@ html {
    Body {color: blue}
 }
 .content {
-   background-color whole browser: #92a8d1;
+   background-color : #92a8d1;
   color: black;
-  padding: 48px;
+  padding: 0;
   height: 300px;
   width: 500px;
   margin: 0 auto;
