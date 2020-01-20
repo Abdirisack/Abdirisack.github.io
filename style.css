@@ -1,6 +1,7 @@
 Body {color:blue;
 }
-.content {
+<style>
+.center {
   background-color: rbga(0,0,0,0,7);
   color:white;
   padding: 48px;
@@ -10,4 +11,5 @@ Body {color:blue;
 }
 .profile_picture{
   height: 100px
+</style>
 }
